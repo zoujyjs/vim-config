@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/zoujyjs/.vim/bundle/ctrlp.vim'
+let g:netrw_dirhist_2='/home/zoujyjs/.vim/bundle/vim-powerline/plugin'
+let g:netrw_dirhist_3='/home/hzzoujunyang/.vim/colors'
